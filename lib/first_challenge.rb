@@ -6,45 +6,45 @@ def first_challenge
          age: "53"
        },
        matriarch: {
-        name: "Lady Montague"
+        name: "Lady Montague",
         age: "54"
       },
       hero: {
-        name: "Romeo"
+        name: "Romeo",
         age: "15"
       },
       hero_friends: [{
-        name: "Benvolio"
-        age: "17"
+        name: "Benvolio",
+        age: "17",
         attitude: "worried"
       },
       {
-        name: "Mercutio"
-        age: "18"
+        name: "Mercutio",
+        age: "18",
         attitude: "hot-headed"
       }]
     },
     capulet: {
       patriarch: {
-        name: "Lord Capulet"
+        name: "Lord Capulet",
         age: "50"
       },
       matriarch: {
-        name: "Lady Capulet"
+        name: "Lady Capulet",
         age: "51"
       },
       heroine: {
-        name: "Juliet"
-        age: "15"
+        name: "Juliet",
+        age: "15",
         status: "Alive"
       },
       herorine_friends: [{
-            name: "Steven"
-            age: "30"
+            name: "Steven",
+            age: "30",
             attitude: "confused"
           },
-          { name: "Nurse"
-            age: "44"
+          { name: "Nurse",
+            age: "44",
             attitude: "worried" }]
     }
   }
